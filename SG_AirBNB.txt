@@ -1,0 +1,5 @@
+Singapore AirBNB Analysis
+
+Dataset from Kaggle: https://www.kaggle.com/datasets/jojoker/singapore-airbnb
+
+Visualization: https://public.tableau.com/views/Singapore_AirBNBs/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
